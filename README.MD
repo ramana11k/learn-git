@@ -10,3 +10,4 @@ This is the first commit from main branch
 ### rebase
 - rebase is another merge strategry
 - development is stil in progress
+- development is completed now

@@ -14,4 +14,5 @@ This is the first commit from main branch
 
 
 ### squash
-- started development of cart component
+- started development of cart component'
+- section-1 is completed  

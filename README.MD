@@ -11,3 +11,10 @@ This is the first commit from main branch
 - rebase is another merge strategry
 - development is stil in progress
 - development is completed now
+
+
+### squash
+- started development of cart component'
+- section-1 is completed 
+- section-2 is completed
+- cart component is completed

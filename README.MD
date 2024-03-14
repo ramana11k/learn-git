@@ -17,3 +17,4 @@ This is the first commit from main branch
 - started development of cart component'
 - section-1 is completed 
 - section-2 is completed
+- cart component is completed

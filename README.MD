@@ -18,3 +18,6 @@ This is the first commit from main branch
 - section-1 is completed 
 - section-2 is completed
 - cart component is completed
+
+### conflict
+- this is from Developer-1, I want to keep this line of code
